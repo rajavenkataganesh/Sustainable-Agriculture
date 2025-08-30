@@ -1,0 +1,21 @@
+Software, models and databases MITERRA-EUROPE
+
+MITERRA-EUROPE
+MITERRA-EUROPE is a deterministic model to simulate integrated flows and emissions of nutrient elements at regional (EU NUTS2) level.
+
+The model can estimate:
+
+Atmospheric emissions of ammonia (NH3), nitrous oxide (N2O), nitrogen oxides (NOx), and methane (CH4) from manure management and fertilization,
+Surface runoff and leaching of N & P to the ground- and surface waters,
+Turnover and sequestration of soil organic C and N,
+Balance of other nutrient elements: S, K, Na, Ca & Mg,
+Balance of soil heavy metals (Cd, Cu & Zn).
+With a package of mitigation measures, the model can be used to assess the effects of different management strategies and policies at national or European level.
+
+MITERRA-EUROPE comprises a comprehensive, collated input database on European climate and soil data, livestock numbers, land use, crop areas and yields, nutrient inputs and outputs, and emission factors for greenhouse gas emissions, and runoff and leaching factors for N. The model calculations are primarily based on emission factors, but also include processed-based algorithms from other models such as INTEGRATOR, RothC, and ALFAM2.
+
+Miterra Figure.png
+dr.ir. JP (Jan Peter) Lesschen
+Contact person
+dr.ir. JP (Jan Peter) Lesschen
+Contact
